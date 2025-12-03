@@ -30,7 +30,7 @@ Celem projektu jest stworzenie oraz wdrożenie systemu informatycznego wspieraj�
 - przegląda materiały oraz stany magazynowe
 - realizuje operacje przyjęć i wydań
 
-System stanowi nowoczesne narzędzie wspierające pracę magazynu, usprawniające obieg dokumentów i zapewniające przejrzystość operacji logistycznych.
+System stanowi narzędzie wspierające pracę magazynu, usprawniające obieg dokumentów i zapewniające przejrzystość operacji logistycznych.
 
 ---
 
@@ -343,13 +343,13 @@ END
 ## Sklonowanie repozytoriu
 
 ```bash
-git clone https://github.com/twoje-repozytorium/nazwa-projektu.git
-cd nazwa-projektu
+git clone https://github.com/DawidKaminskiL2/BazaProjekt.git
+cd BazaProjekt
 
 ```
 ### Uruchomienie backendu
 ```bash
-cd backend
+cd SystemMagazynu
 dotnet ef database update
 dotnet run
 
