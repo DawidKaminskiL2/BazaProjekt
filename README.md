@@ -184,9 +184,6 @@ RETURN
 
 ### Trigger: `RezerwacjaPoDodaniu`
 
-**Parametry:**  
-- brak
-
 **Opis działania:**  
 Trigger uruchamia się po dodaniu lub usunięciu rezerwacji w tabeli `RezerwacjeMaterialow`. Aktualizuje stany magazynowe, zmniejszając dostępne ilości materiałów w magazynie zgodnie z wartością rezerwacji.
 
@@ -209,9 +206,6 @@ END
 
 
 ### Trigger: `DokumentPoOdrzuceniu`
-
-**Parametry:**  
-- brak
 
 **Opis działania:**  
 Trigger uruchamia się po aktualizacji tabeli `Dokumenty`.  
@@ -251,9 +245,6 @@ END
 ```
 
 ### Trigger: `DokumentPoAkceptacji`
-
-**Parametry:**  
-- brak
 
 **Opis działania:**  
 Trigger uruchamia się po aktualizacji tabeli `Dokumenty`.  
