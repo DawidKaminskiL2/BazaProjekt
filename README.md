@@ -2,7 +2,7 @@
 
 ## 1. Opis systemu
 
-Celem projektu jest stworzenie oraz wdrożenie systemu informatycznego wspierającego kluczowe procesy magazynowe, takie jak obsługa dostaw, wydawanie materiałów, prowadzenie rezerwacji oraz zarządzanie stanami magazynowymi. System został zaprojektowany jako aplikacja webowa, umożliwiająca pracownikom magazynu i administracji wygodne, szybkie i bezpieczne zarządzanie dokumentacją logistyczną oraz bieżące monitorowanie zasobów.
+Celem projektu jest stworzenie systemu informatycznego wspierającego kluczowe procesy magazynowe, takie jak obsługa dostaw, wydawanie materiałów, prowadzenie rezerwacji oraz zarządzanie stanami magazynowymi. System został zaprojektowany jako aplikacja webowa, umożliwiająca pracownikom magazynu i administracji wygodne, szybkie i bezpieczne zarządzanie dokumentacją logistyczną oraz bieżące monitorowanie zasobów.
 
 ### System zapewnia możliwość ewidencji:
 - dostawców
